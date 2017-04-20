@@ -33,7 +33,9 @@ files in one commit, while others, like Google Docs, treat each file separately?
 
 How can you use the commands git log and git diff to view the history of files?
 
-    Fill in your answer here
+    by using git log you can see every change that we have commited,
+    including date of change and comments on the changes,
+    using git diff we can compare two version of the code in two diffrent time points
 
 How might using version control make you more confident to make changes that
 could break something?
