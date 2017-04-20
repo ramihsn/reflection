@@ -30,5 +30,11 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+    merging two branches together create new branch that have include all changes that
+    have been made on the two version of the code,
+    and it's represented on the diagram the way it doed in order to see visualy when the 
+    changes have been made and which parts of the code they might include,
+    moreover, if we going to older branch that we can know which branch have the merge, and which don't
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
