@@ -2,12 +2,14 @@ How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 
     you can see what has change in the code before the bug was introduced and after
-	therefor you can know what is causeing the bug
+    therefor you can know what is causeing the bug
 
 How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
 
-    Fill in your answer here
+    you can find bugs in the code much faster
+    if u add code the you want to unadd you can easly remove it
+    if you add features to the program you can see who you did it before and help yourself to do it again
 
 What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
