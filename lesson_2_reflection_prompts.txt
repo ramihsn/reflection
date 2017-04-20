@@ -20,9 +20,12 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-    on adding new feature or trying defrent methode or going wild in codeing and trying crazy ideas
+    on adding new feature or trying defrent methode or going wild in codeing and trying crazy ideas.
 
 How do the diagrams help you visualize the branch structure?
+
+    you can see every change when he has been made and the crose roads in the code,
+    which can indecates if you have branchs what part of the code they have or not have
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
